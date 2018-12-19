@@ -1,0 +1,7 @@
+*.o
+app
+tags
+cscope.out
+.DS_Store
+*.dylib
+.remote_git
